@@ -1,4 +1,4 @@
-Um projeto bem simples ultilizando JavaScript, CSS e Html.
+Um projeto bem simples utilizando JavaScript, CSS e Html.
 O jogo consiste em pular os canos que encontra no caminho.
 Aproveite!
 
